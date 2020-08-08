@@ -1,0 +1,10 @@
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\bin\Debug\Proyecto arbol binario.exe.config
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\bin\Debug\Proyecto arbol binario.exe
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\bin\Debug\Proyecto arbol binario.pdb
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto_arbol_binario.Form1.resources
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto_arbol_binario.Properties.Resources.resources
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto_arbol_binario.Ventanas.PanelExprecionArbol.resources
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Prueba1_Arbol_A_Exprecion.Form1.resources
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto arbol binario.csproj.GenerateResource.cache
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto arbol binario.exe
+C:\Users\javie\source\repos\Proyecto arbol binario\Proyecto arbol binario\obj\Debug\Proyecto arbol binario.pdb
